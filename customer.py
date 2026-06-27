@@ -30,8 +30,6 @@ from langgraph.graph import END, StateGraph
 
 
 
-
-
 console = Console()
 llm = ChatOllama(model="qwen2.5:3b", temperature=0.3) 
 
@@ -516,7 +514,7 @@ def run_demo() -> None:
 
     for index, query in enumerate(DEMO_QUERIES, start=1):
         result = run_query(query, interactive=False)
-        print_result(f"Predefined Query {index}", query, result)
+        print_result(f" Query {index}", query, result)
 
 
 def run_user_input() -> None:
@@ -527,7 +525,7 @@ def run_user_input() -> None:
         query = console.input("\nEnter your query: ").strip()
 
         if query.lower() in {"exit", "quit","thank you", "q"}:
-            console.print("Exiting customer support demo.")
+            console.print("Exiting customer support.")
             break
 
         if not query:
