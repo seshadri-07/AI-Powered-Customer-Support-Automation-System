@@ -2,6 +2,8 @@
 
 This project implements a LangGraph-based customer support automation system for ABC Technologies. It accepts customer queries, classifies the issue, routes the request to the correct department, retrieves relevant company document text, uses ChatOllama to generate responses, stores conversation memory in SQLite, and handles high-risk requests with human approval.
 
+##gitHub Link: https://github.com/seshadri-07/AI-Powered-Customer-Support-Automation-System.git
+
 ## Requirements Covered
 
 1. Accept customer queries.
