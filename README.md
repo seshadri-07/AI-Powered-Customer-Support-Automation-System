@@ -150,3 +150,14 @@ The same workflow is exported as:
 - If Ollama is not running, response generation may fail.
 - The SQLite database is recreated for each program run because `reset_demo_memory()` is called at startup.
 
+## outputs
+<img width="1224" height="749" alt="image" src="https://github.com/user-attachments/assets/3d76d27a-c16e-48c2-9e98-39bc0af220e6" />
+<img width="1322" height="684" alt="image" src="https://github.com/user-attachments/assets/4fe82edb-6128-4d34-b1f6-7c9ae0b6a26c" />
+<img width="1313" height="614" alt="image" src="https://github.com/user-attachments/assets/ffd01588-b2b2-4fc4-96d8-f3256f38c8f9" />
+<img width="951" height="324" alt="image" src="https://github.com/user-attachments/assets/e0197887-8cd3-43ae-a6e8-30baa7a47b87" />
+<img width="1305" height="699" alt="image" src="https://github.com/user-attachments/assets/47558f3e-abd8-4e10-af25-3b4715d2a495" />
+
+
+
+
+
