@@ -158,6 +158,8 @@ The same workflow is exported as:
 <img width="1305" height="699" alt="image" src="https://github.com/user-attachments/assets/47558f3e-abd8-4e10-af25-3b4715d2a495" />
 <img width="966" height="337" alt="image" src="https://github.com/user-attachments/assets/1b1067b2-bbfa-4af4-9482-ac6bd8177e19" />
 
+## Data base schema
+<img width="1544" height="606" alt="image" src="https://github.com/user-attachments/assets/42de98c1-f18c-48db-97d1-53bbf1ee34b3" />
 
 
 
